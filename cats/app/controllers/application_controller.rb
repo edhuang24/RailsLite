@@ -1,0 +1,2 @@
+class ApplicationController < ControllerBase
+end
