@@ -1,5 +1,8 @@
 # RailsLite
 
+[Link][link]
+[link]: http://www.edwardhuang.info/railslite
+
 RailsLite is a lightweight version of Ruby-on-Rails built from scratch, featuring some of the basic functionality from Rails.
 
 This particular construction includes a lightweight version of Active Record that includes model associations and table modification/lookup methods.
